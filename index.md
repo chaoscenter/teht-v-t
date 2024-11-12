@@ -4,5 +4,5 @@ Että kaipa niitä viikkoja sitten
 Uusi jekyll teema
 ## Tervetuloa Github pages sivustollieni!
 Täälä löytyvät tehtäväpalautukset
-- [viikko 1](vko1.html)
+- [viikko 1](index.html)
 - [viikko 2](vko2.html) 
