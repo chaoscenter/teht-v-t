@@ -1,3 +1,5 @@
 title: midnight Theme
 description: Tervetuloa sivustolle!
 theme: jekyll-theme-midnight
+exclude:
+-vko3/
